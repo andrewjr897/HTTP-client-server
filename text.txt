@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PUT file</title>
+</head>
+<body>
+<p>This is the file i PUT here</p>
+</body>
+</html>
